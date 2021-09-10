@@ -7,7 +7,8 @@
 <title>Mi primera pagina</title>
 </head>
 <body>
-<p>holaaa mundooo</p>
+<p>holaaa mundooo de git</p>
+<h1>conexion de git lograda</h1>
 <table>
 	<tr>
 	    <th>Enero</th>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Colaborador</title>
+<title>Colaborador Daniel</title>
 </head>
 <body>
 <h1>Nuevos cambios</h1>

@@ -9,6 +9,7 @@
 <body>
 <p>holaaa mundooo de git</p>
 <h1>conexion de git lograda</h1>
+<h1>Conexión Colaborador DSL0802</h1>
 <table>
 	<tr>
 	    <th>Enero</th>
